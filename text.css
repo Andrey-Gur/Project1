@@ -1,0 +1,13 @@
+.text{
+
+  opacity: 0.85;
+  background: #D1D0CE;
+  padding: 20px;
+  margin-top: 2.5%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  min-height: 100vh;
+  font-family: cursive;
+  font-size: 32px;
+}
